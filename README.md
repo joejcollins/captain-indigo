@@ -1,3 +1,3 @@
 # captain-indigo README
 
-Demonstration VSCode extension
+Pointless VSCode extension
