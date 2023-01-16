@@ -16,7 +16,7 @@
   "contributes": {
     "commands": [{
       "command": "captain-indigo.helloWorld",
-      "title": "Hello World"
+      "title": "Speak Up"
     }]
   },
   "scripts": {
